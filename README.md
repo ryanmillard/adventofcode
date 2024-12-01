@@ -1,2 +1,2 @@
 # Advent Of Code
-Doing Advent of Code challenges in C# to practice
+Doing Advent of Code challenges to practice
